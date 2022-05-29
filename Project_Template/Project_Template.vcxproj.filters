@@ -89,6 +89,12 @@
     <None Include="shader\PointSpriteVert.vert">
       <Filter>shaders</Filter>
     </None>
+    <None Include="shader\VertexAnimation.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="shader\VertexFrag.frag">
+      <Filter>shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="helper\scene.h">
@@ -152,6 +158,9 @@
       <Filter>Header Files\helper</Filter>
     </ClInclude>
     <ClInclude Include="helper\texture.h">
+      <Filter>Header Files\helper</Filter>
+    </ClInclude>
+    <ClInclude Include="helper\particleutils.h">
       <Filter>Header Files\helper</Filter>
     </ClInclude>
   </ItemGroup>
