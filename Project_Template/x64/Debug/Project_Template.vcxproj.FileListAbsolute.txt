@@ -1,0 +1,4 @@
+C:\Users\Morgan\Desktop\Project_Template_Diffuse\Project_Template_Diffuse\Project_Template\x64\Debug\TemplateBuild.exe
+C:\Users\Morgan\Desktop\Project_Template_Diffuse\Project_Template_Diffuse\Project_Template\x64\Debug\TemplateBuild.pdb
+C:\Users\Morgan\Documents\GitHub\3015labs\Project_Template_Diffuse\Project_Template_Diffuse\Project_Template\x64\Debug\TemplateBuild.exe
+C:\Users\Morgan\Documents\GitHub\3015labs\Project_Template_Diffuse\Project_Template_Diffuse\Project_Template\x64\Debug\TemplateBuild.pdb
